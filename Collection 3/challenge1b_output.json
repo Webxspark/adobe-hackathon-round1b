@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-27T12:07:22.958750"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "Ingredients:",
+            "importance_rank": 1,
+            "page_number": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "Ingredients:",
+            "importance_rank": 2,
+            "page_number": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "Ingredients:",
+            "importance_rank": 3,
+            "page_number": 9
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "section_title": "Ingredients:",
+            "importance_rank": 4,
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 5,
+            "page_number": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 6,
+            "page_number": 5
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 7,
+            "page_number": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 8,
+            "page_number": 9
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 9,
+            "page_number": 4
+        },
+        {
+            "document": "Breakfast Ideas.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 10,
+            "page_number": 2
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "1 pound white fish fillets (such as cod or tilapia) 1/2 cup flour 1/2 cup cornmeal 1 teaspoon paprika 1 teaspoon cumin 1 teaspoon salt 1/2 teaspoon pepper 1/2 cup buttermilk 1/4 cup vegetable oil Taco shells or tortillas Shredded cabbage, diced tomatoes, sliced avocado, and lime wedges for toppings",
+            "page_number": 10
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "o 1 cup cornmeal o 1 cup flour o 1/4 cup sugar o 1 tablespoon baking powder o 1/2 teaspoon salt o 1 cup milk o 1/4 cup vegetable oil",
+            "page_number": 2
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "refined_text": "o 2 cups flour o 1/4 cup cornmeal o 1/4 cup sugar o 1 tablespoon baking powder o 1/2 teaspoon salt o 1/4 cup milk o Oil for frying",
+            "page_number": 9
+        },
+        {
+            "document": "Dinner Ideas - Sides_4.pdf",
+            "refined_text": "o 1 cup cornmeal o 4 cups water o 1 teaspoon salt o 2 tablespoons butter o 1/2 cup grated Parmesan cheese",
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Mains_1.pdf",
+            "refined_text": "In a bowl, mix flour, cornmeal, paprika, cumin, salt, and pepper. Dip fish fillets in buttermilk, then coat with the flour mixture. Heat vegetable oil in a skillet over medium heat. Cook fish until golden and cooked through. Serve fish in taco shells or tortillas with desired toppings.",
+            "page_number": 10
+        }
+    ]
+}
